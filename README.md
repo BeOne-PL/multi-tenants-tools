@@ -5,7 +5,7 @@ There are two parts of the project:
 - AMP addon for Alfresco
 - ADF application
 
-Angular project template was generated using [ADF application generator for Yeoman] (https://github.com/Alfresco/generator-ng2-alfresco-app)
+Angular project template was generated using [ADF application generator for Yeoman](https://github.com/Alfresco/generator-ng2-alfresco-app)
 
 ## Features
 
