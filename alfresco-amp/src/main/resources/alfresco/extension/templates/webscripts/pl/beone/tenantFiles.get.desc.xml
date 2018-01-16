@@ -1,0 +1,9 @@
+<webscript>
+	<shortname>Get tenant file list</shortname>
+	<description></description>
+	<url>/tenantFiles</url>
+	<format default="json">any</format>
+	<authentication>user</authentication>
+	<family>BeOne</family>
+	<transaction>required</transaction>
+</webscript>

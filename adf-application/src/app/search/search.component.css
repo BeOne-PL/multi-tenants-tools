@@ -1,0 +1,36 @@
+.table {
+  width: 100%;
+}
+
+.table td {
+  color: rgba(0, 0, 0, 0.87);
+  position: relative;
+  vertical-align: middle;
+  height: 56px;
+  border-top: 1px solid rgba(0, 0, 0, 0.07);
+  padding-top: 12px;
+  box-sizing: border-box;
+}
+
+.table tr {
+  cursor: pointer;
+  position: relative;
+  height: 56px;
+  transition-duration: 0.28s;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-property: background-color;
+}
+
+.search-form {
+  margin: 15px;
+  min-width: 150px;
+  width: 98%;
+}
+
+.search-full-width {
+  width: 100%;
+}
+
+.main-cointainer {
+  margin: 10px;
+}
